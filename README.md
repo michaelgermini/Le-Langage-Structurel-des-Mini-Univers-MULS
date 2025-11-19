@@ -154,7 +154,7 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## Auteurs
 
-- **Auteur principal** - *Spécification initiale* - [Votre nom](https://github.com/your-username)
+- **Auteur principal** - *Spécification initiale* - [Michael Germini](https://github.com/michaelgermini)
 
 ## Remerciements
 
